@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# VS Code settings
+.vscode/
+# Build/output folders (future use)
+dist/
+build/
+.cache/
+# Logs
+*.log
+# Node modules 
+node_modules/
+# Environment files
+.env
