@@ -5,7 +5,7 @@ ehthumbs.db
 Desktop.ini
 # VS Code settings
 .vscode/
-# Build/output folders (future use)
+# Build/output folders 
 dist/
 build/
 .cache/
