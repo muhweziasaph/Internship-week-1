@@ -12,3 +12,5 @@ This is a simple personal homepage created using HTML only, as part of Week 1 of
 Open `index.html` in any web browser.
 ## Author
 MUHWEZI ASAPH
+UTAMU STUDENT 
+BACHELOR OF SCIENCE COMPUTER SCIENCE
