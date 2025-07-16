@@ -1,6 +1,6 @@
 # Internship-week-1 at Zentrix African Technology Institute Nakawa
-This is my first week  internship GitHub repository 
-## Project: Personal Homepage
+This is my first week  internship GitHub repository. week 1 report attached. 
+## week 1 Project: Personal Homepage
 This is a simple personal homepage created using HTML only, as part of Week 1 of my internship in full stack web development.
 ## Objectives
 - Learn basic HTML structure
@@ -9,8 +9,9 @@ This is a simple personal homepage created using HTML only, as part of Week 1 of
 - HTML
 - Git & GitHub
 ## How to View
-Open `index.html` in any web browser.
+- clone the repository and open `index.html` in any web browser.
+- you can also after cloning use visual studio code with live server extension
 ## Author
-MUHWEZI ASAPH
+INTERNEE MUHWEZI ASAPH
 UTAMU STUDENT 
 BACHELOR OF SCIENCE COMPUTER SCIENCE
